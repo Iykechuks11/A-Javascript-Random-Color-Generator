@@ -21,7 +21,7 @@ function print(message) {
 }
 
 // THE LOOP THAT COUNTS 
-for (var i = 1; i <= 100; i += 1) {
+for (var i = 1; i <= 110; i += 1) {
   rgbColor = colorRandom();
   html += '<div style="background-color:' + rgbColor + '"></div>'
 }
