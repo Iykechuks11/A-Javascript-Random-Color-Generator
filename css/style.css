@@ -1,0 +1,20 @@
+/*THE BODY STYLE*/
+body
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+  text-align: center;
+}
+
+/*THE ID STYLE*/
+#color div
+{
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  border-radius: 50%;
+  margin: 5px;
+}
